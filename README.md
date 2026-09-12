@@ -148,22 +148,6 @@ data-digger/
 - **Assumptions:** Make suitable assumptions wherever necessary and document them in this README or `assumptions.md`.
 - **GitHub Repository:** Host the project here, including source code and documentation, with a clear and descriptive README.
 - **No Copying:** All code and content must be original. Plagiarism is strictly prohibited and may result in academic penalties.
-- **Submission:** Once complete, submit the GitHub repository link to your instructor, ensuring the repo is properly organized with all required files.
-
----
-
-## ✅ Status
-
-| Table | Schema | Sample Data | Queries |
-|---|---|---|---|
-| Customers | ⬜ | ⬜ | ⬜ |
-| Orders | ⬜ | ⬜ | ⬜ |
-| Products | ⬜ | ⬜ | ⬜ |
-| OrderDetails | ⬜ | ⬜ | ⬜ |
-
-*(Update the checkboxes above as you complete each part.)*
-
----
 
 **Data Digger — SQL**
 *Bring on your coding attitude!*
