@@ -186,10 +186,4 @@ WHERE ProductID = 102
 GROUP BY ProductID;
 
 
--- 5. DISPLAY ALL TABLES
 
-
-SELECT * FROM Customers;
-SELECT * FROM Products;
-SELECT * FROM Orders;
-SELECT * FROM OrderDetails;
